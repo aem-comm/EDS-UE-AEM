@@ -1,6 +1,6 @@
 mountpoints:
   /:
-    url: "https://author-p105957-e1283031.adobeaemcloud.com/bin/franklin.delivery/aem-comm/EDS-UE_AEM/main"
+    url: "https://main--aem-comm-EDS-UE_AEM.hlx.live"
     type: "markup"
     suffix: ".html"
   
