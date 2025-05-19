@@ -1,13 +1,13 @@
 {
   "mappings": [
-    "/content/universal-editor/:/",
-    "/content/universal-editor/configuration:/.helix/config.json",
-    "/content/universal-editor/headers:/.helix/headers.json",
-    "/content/universal-editor/metadata:/metadata.json",
-    "/content/universal-editor/placeholders:/placeholders.json",
-    "/content/universal-editor.resource/enrichment/enrichment.json:/enrichment/enrichment.json"
+    "/content/EDSUEWithAEM/:/",
+    "/content/EDSUEWithAEM/configuration:/.helix/config.json",
+    "/content/EDSUEWithAEM/headers:/.helix/headers.json",
+    "/content/EDSUEWithAEM/metadata:/metadata.json",
+    "/content/EDSUEWithAEM/placeholders:/placeholders.json",
+    "/content/EDSUEWithAEM.resource/enrichment/enrichment.json:/enrichment/enrichment.json"
   ],
   "includes": [
-    "/content/universal-editor/"
+    "/content/EDSUEWithAEM/"
   ]
 }
